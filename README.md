@@ -4,3 +4,4 @@
 - README.md erzeugen
 - ein paar commits
 - push
+- fetch
